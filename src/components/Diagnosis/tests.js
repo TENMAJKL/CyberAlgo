@@ -1,0 +1,18 @@
+export let tests = [
+    {process: "Checking rust packages...", output: true},
+    {process: "Checking Linux Kernel 25.364.12...", output: true},
+    {process: "Checking sum algorithm...", output: false},
+    {process: "Checking vim...", output: true},
+    {process: "Checking rim...", output: true},
+    {process: "Testing AI - voice recognition...", output: true},
+    {process: "Testing AI - finding even numbers", output: false},
+    {process: "Testing AI - voice syntehsis...", output: true},
+    {process: "Testing AI - consciousness...", output: true},
+    {process: "Testing AI - finding all prime numbers...", output: false},
+    {process: "Checking repl.it...", output: true},
+    {process: "Checking gnu rust compiler...", output: true},
+    {process: "Checking factorial algorithm...", output: false},
+    {process: "Checking TENMAJKL github...", output: true},
+    {process: "Checking all 5468474756477241234774251 js libraries...", output: true},
+    {process: "Checking Lemon...", output: true},
+]

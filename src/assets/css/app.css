@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+* {
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+.btn {
+    @apply p-5 mb-5 border-2 border-blue-400 shadow 
+}
+
+.card {
+   @apply text-white border-2 border-blue-400 shadow 
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

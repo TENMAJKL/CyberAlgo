@@ -1,4 +1,6 @@
-# game
+# CyberAlgo
+
+Game for replit game jam written in Vue
 
 ## Project setup
 ```
